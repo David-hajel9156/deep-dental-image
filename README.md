@@ -14,11 +14,6 @@ Pyhon
 ![ScreenShot](/best.jpg)
 
 
-# Citation
-
-JADER, G., FONTINELE J.; RUIZ, M; ABDALLA, K.; PITHON, M.; OLIVEIRA, L. [Deep instance segmentation of teeth
-in panoramic X-ray images](http://ivisionlab.ufba.br/doc/publication/2018/tooth_segmentation.pdf). In: Conference on Graphics, Patterns and Images (SIBGRAPI), 2018.
-
 
 <!--## Request Dataset
 Please send an e-mail to lrebouca@ufba.br to receive a link to the UFBA_UESB_DENTAL_IMAGES_DEEP dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
